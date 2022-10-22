@@ -106,7 +106,7 @@
   </a>
 </p>
 <p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, sau này được đi học ở trường Đại học Bách khoa Hà Nội, chuyên ngành điện tử viễn thông, nhưng lại có niềm đam mê lớn với công nghệ thông tin. Vì vậy mình đã tìm được một số thứ thú vị từ GitHub, có profile này chẳng hạn. Profile này mình tìm thấy từ GitHub của anh TrungQuandev, mình thấy khá thú vị nên đã clone về và chỉnh sửa lại phù hợp với bản thân. Mình xin cảm ơn anh. </strong></p>
-<p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ hông tin, mà còn bao gồm cả đời sống cá nhâ, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
+<p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
 <p>
 <p><strong>🤟 Hiện tại mình chưa nghĩ ra gì để viết tiếp, nên hãy để trống phần này </strong></p>
 <p>
@@ -116,6 +116,6 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<a href="https://www.youtube.com/c/NguyễnĐứcQuân" target="_blank">
   <img src="images/VietNammuonnam.PNG" width="1200" alt="Vì lý tưởng vĩ đại của Bác Hồ" />
 </a>
