@@ -53,11 +53,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="NguyenDucquan12">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDucQuan12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="vanhung1103">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhung1103&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="NguyenDucQuan12">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NguyenDucQuan12&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+  <a href="#" title="vanhung1103">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vanhung1103&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="Việt Nam muôn năm" target="blank">
-    <img width="90" height="90" src="images/viet-nam.png" alt="NguyenDucQuan-blog" />
+    <img width="90" height="90" src="images/viet-nam.png" alt="vanhung1103-blog" />
   </a>
   &nbsp;
 
@@ -91,7 +91,7 @@
   </a>
   &nbsp;
   &nbsp;
-  <a href="mailto:nguyenducquan2001@gmail.com" target="top">
+  <a href="mailto:vanhungfc001@gmail.com" target="top">
     <img width="70" height="70" src="images/gmail.png" alt="NguyenDucQuan-email" />
   </a>
 </div>
@@ -100,18 +100,7 @@
 
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
-<p>
-  <a href="https://www.youtube.com/c/NguyễnĐứcQuân" target="_blank">
-    <strong>👋 Mình là Quân, hãy đăng ký kênh và ủng hộ mình thường xuyên nhé 👋</strong>
-  </a>
-</p>
-<p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, sau này được đi học ở trường Đại học Bách khoa Hà Nội, chuyên ngành điện tử viễn thông, nhưng lại có niềm đam mê lớn với công nghệ thông tin. Vì vậy mình đã tìm được một số thứ thú vị từ GitHub, có profile này chẳng hạn. Profile này mình tìm thấy từ GitHub của anh TrungQuandev, mình thấy khá thú vị nên đã clone về và chỉnh sửa lại phù hợp với bản thân. Mình xin cảm ơn anh. </strong></p>
-<p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
-<p>
-<p><strong>🤟 Hiện tại mình chưa nghĩ ra gì để viết tiếp, nên hãy để trống phần này </strong></p>
-<p>
-<p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
-</p>
+
 <br><br><br><br>
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
